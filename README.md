@@ -2,8 +2,7 @@
 A Lightweight RAG Implementation with ChromaDB and Caching.
 
 ## Sequence Diagram
-
-<img src="https://github.com/arananet/MnemosyneRAG/blob/master/sequence.png?raw=true" width="500">
+<img src="https://raw.githubusercontent.com/arananet/MnemosyneRAG/refs/heads/main/sequence.png" width="500">
 
 ## Getting Started
 
