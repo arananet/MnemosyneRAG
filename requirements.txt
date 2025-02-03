@@ -1,0 +1,6 @@
+chromadb
+python-dotenv
+colorama
+openai
+flask
+tenacity
